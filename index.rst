@@ -10,7 +10,7 @@ Welcome to Source Code Management Documentation!
    :maxdepth: 2
    :numbered:
    
-   file1.md
+   sample.md
 
 
 
