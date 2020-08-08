@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Source Code Management'
+project = 'Andriod Application Developement'
 copyright = '2020, Venkatareddy'
 author = 'Venkatareddy'
 
